@@ -4,7 +4,7 @@ import pandas as pd
 from pathlib import Path
 
 # Sökväg till databasen som används av hela applikationen
-DB_PATH = Path("/home/meridona/data_science/köksglädje.db")
+DB_PATH = Path("pages/köksglädje.db")
 
 # Läser SQL-frågor och returnerar resultatet som en DataFrame
 def read_sql(query: str, params: tuple = ()) -> pd.DataFrame:
