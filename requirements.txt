@@ -1,8 +1,7 @@
-Requirments: 
-
 Sqlite3
 Pandas
 Numpy
 Matplotlib
 Seaborn 
 Streamlit
+
