@@ -1,4 +1,4 @@
-* Individuell inlämning – Data Science-projekt (TUC Yrkeshögskola) *
+* Individuell inlämning – Data Science-projekt  *
 
 Min Streamlit-app är publicerad här:  https://meridona.streamlit.app/transactions
                                                                        
@@ -13,4 +13,5 @@ Produkter – toppsäljare, antal och försäljning per kategori.
 Insikter – månadstrender, veckodagar och värmekarta för butik × månad.
 
 All data hämtas från en SQLite-databas via egna getter-funktioner. Caching används för att göra appen snabb och responsiv. Visualiseringarna är byggda med pandas, seaborn och matplotlib.
+
 
